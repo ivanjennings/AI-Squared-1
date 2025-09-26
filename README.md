@@ -1,0 +1,1 @@
+Welcome to AI Squared. This organisation will host our public facing artifacts and initiatives that we would love your help and collaboration on. Check out http://aiai.ie/ for latest information and watch this space as we update our docs and next steps.
